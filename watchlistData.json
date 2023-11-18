@@ -1,0 +1,381 @@
+[
+  {
+    "id": "tt1695360",
+    "review_api_path": "/reviews/tt1695360",
+    "imdb": "https://www.imdb.com/title/tt1695360",
+    "contentType": "TVSeries",
+    "productionStatus": "Released",
+    "title": "The Legend of Korra",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZhNGY2ZDAtYWYxYy00YWNlLWI3NDUtNjBiM2NkMGVmODIxXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BMTEzMDAzMTk3NDReQTJeQWpwZ15BbWU4MDk2Mjc4OTEy._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTgyNDUzNjUyMF5BMl5BanBnXkFtZTgwMzEyMDI5MTI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODMxMDg3OTIzNl5BMl5BanBnXkFtZTgwNTM4NTY0MDI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjYwNzEzMDk3Ml5BMl5BanBnXkFtZTgwNDM4NTY0MDI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTcxNjA0MTE4MF5BMl5BanBnXkFtZTgwMzM4NTY0MDI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTczMDUyNDYzOF5BMl5BanBnXkFtZTgwNDI4NDM5MzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjA3MTE4NDExMV5BMl5BanBnXkFtZTgwNjE5OTI2MzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTY0MjE0OTY5Ml5BMl5BanBnXkFtZTgwMjMyNDI2MzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjAyMjM3MzczMl5BMl5BanBnXkFtZTgwNDk3MzM0MzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTc2OTY4NzM1NF5BMl5BanBnXkFtZTgwODM5OTcxMzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjI1OTI0ODA4NF5BMl5BanBnXkFtZTgwOTIzNjIxMzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjQxNDcyODIxN15BMl5BanBnXkFtZTgwOTM3NTIwMzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjY1MjY0NzE2MF5BMl5BanBnXkFtZTgwNjI0Mjg5MjE@._V1_.jpg"
+    ],
+    "plot": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
+    "rating": {
+      "count": 131133,
+      "star": 8.4
+    },
+    "award": {
+      "wins": 27,
+      "nominations": 42
+    },
+    "contentRating": "TV-PG",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "releaseDetailed": {
+      "day": 14,
+      "month": 4,
+      "year": 2012,
+      "releaseLocation": {
+        "country": "United States",
+        "cca2": "US"
+      },
+      "originLocations": [
+        {
+          "country": "United States",
+          "cca2": "US"
+        }
+      ]
+    },
+    "year": 2012,
+    "spokenLanguages": [
+      {
+        "language": "English",
+        "id": "en"
+      }
+    ],
+    "filmingLocations": [],
+    "runtime": "23m",
+    "runtimeSeconds": 1380,
+    "actors": [
+      "Janet Varney",
+      "P.J. Byrne",
+      "David Faustino"
+    ],
+    "directors": [],
+    "top_credits": [
+      {
+        "name": "Creators",
+        "value": [
+          "Michael Dante DiMartino",
+          "Bryan Konietzko"
+        ]
+      },
+      {
+        "name": "Stars",
+        "value": [
+          "Janet Varney",
+          "P.J. Byrne",
+          "David Faustino"
+        ]
+      }
+    ],
+    "seasons": [],
+    "all_seasons": []
+  },
+  {
+    "id": "tt5950044",
+    "review_api_path": "/reviews/tt5950044",
+    "imdb": "https://www.imdb.com/title/tt5950044",
+    "contentType": "Movie",
+    "productionStatus": "Pre-production",
+    "title": "Superman: Legacy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQwMWM4MGMtOGQ3MS00ZGE2LTg5MWUtNzkzYzczNDM3ZTBmXkEyXkFqcGdeQXVyMTEwODE4ODkz._V1_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BNjNhMDY2MzAtYmQwZS00MTllLWE5NDAtYjhhYTkyZjNiMGUxXkEyXkFqcGdeQXVyNTA5NjkwNjk@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNDQwMWM4MGMtOGQ3MS00ZGE2LTg5MWUtNzkzYzczNDM3ZTBmXkEyXkFqcGdeQXVyMTEwODE4ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOWY2OTc2OWQtOWE2Yy00ZGUwLTk4NGYtNzMzMTRjZWEzMTk1XkEyXkFqcGdeQXVyMTcxNzEwNDE5._V1_.jpg"
+    ],
+    "plot": "Follows the titular superhero as he reconciles his heritage with his human upbringing. He is the embodiment of truth, justice and the American way in a world that views kindness as old-fashioned.",
+    "rating": {
+      "count": 0,
+      "star": 0
+    },
+    "award": {
+      "wins": 0,
+      "nominations": 0
+    },
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "releaseDetailed": {
+      "day": 11,
+      "month": 7,
+      "year": 2025,
+      "releaseLocation": {
+        "country": "United States",
+        "cca2": "US"
+      },
+      "originLocations": [
+        {
+          "country": "United States",
+          "cca2": "US"
+        }
+      ]
+    },
+    "year": 2025,
+    "spokenLanguages": [
+      {
+        "language": "English",
+        "id": "en"
+      }
+    ],
+    "filmingLocations": [],
+    "runtime": "",
+    "runtimeSeconds": 0,
+    "actors": [
+      "Isabela Merced",
+      "Nathan Fillion",
+      "Rachel Brosnahan"
+    ],
+    "directors": [
+      "James Gunn"
+    ],
+    "top_credits": [
+      {
+        "name": "Director",
+        "value": [
+          "James Gunn"
+        ]
+      },
+      {
+        "name": "Writers",
+        "value": [
+          "James Gunn",
+          "Joe Shuster",
+          "Jerry Siegel"
+        ]
+      },
+      {
+        "name": "Stars",
+        "value": [
+          "Isabela Merced",
+          "Nathan Fillion",
+          "Rachel Brosnahan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt8010444",
+    "review_api_path": "/reviews/tt8010444",
+    "imdb": "https://www.imdb.com/title/tt8010444",
+    "contentType": "Movie",
+    "productionStatus": "Released",
+    "title": "Spider-Man: Rise of a Legacy",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjYyZjQ4ZWYtNDcxYy00ZDIwLWI0YWEtYTQwMWE4M2JmZTYxXkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BNzFiMjUwNjktM2ZlNC00MTQzLWI4MzYtNWNjY2M1ODNkMmZkXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2IzNDQ4YWYtMDFhYS00YzFiLWE3YWEtN2UxODRkYTcwMzZjXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOTRiYWU0YjYtNjc2Ni00ZTdlLTkwZjgtODU1Y2JlNmUxMjNhXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZmFmZTQ2ZjAtOGZiZC00NDBhLThkOGUtOTY2ZmNjZDg2Nzk2XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODZhZWFlYjMtMmU3Mi00YWIzLTk2MDUtZmQ2ZjQ3NWY4NjQ4XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYTAxYmQzYjYtMTYyNi00MTc0LWJiOTYtNzNhMTE4MzU3ZTA0XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGYwMWUxZTEtOWVjNy00OWVhLWE2NTYtMTMwZDZlZWM2YjIwXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYTllZThlNWItYmFmYS00MDY3LTk2MDQtZGQzNDk3ZjJhNWFlXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjY1ODE1ZDMtNjkxYi00M2IwLThjNzYtZTk0YjRjNzg2NDAwXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDQ0MTVlZjgtYTllZS00YWM3LTg3MjAtYWEwZTI4NGYyNmFlXkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjgyZDE2MzEtNGNiZC00M2ZiLWI0MzctZjIyM2Q1MTkzNjk4XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDBhZTUzYjAtNzBjNy00YjFjLWJmNGEtMmU0MDkxYjgzM2Y3XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOWFiNDllYWYtYmMzNS00NWY2LWE5OGYtMzNlMzYyMDg2ODk4XkEyXkFqcGdeQXVyMTAyMjY4MTk5._V1_.jpg"
+    ],
+    "plot": "The fourth installment to the Spider-Man Saga. Months after Vengeance, Spider-Man (Mark Ricci) is now wanted and is seen a public menace. A Russian hunter named Kraven the Hunter (Ricar Giachini) decides it is his mission to kill ...",
+    "rating": {
+      "count": 40,
+      "star": 7
+    },
+    "award": {
+      "wins": 0,
+      "nominations": 0
+    },
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "releaseDetailed": {
+      "day": 15,
+      "month": 3,
+      "year": 2018,
+      "releaseLocation": {
+        "country": "United States",
+        "cca2": "US"
+      },
+      "originLocations": [
+        {
+          "country": "Canada",
+          "cca2": "CA"
+        }
+      ]
+    },
+    "year": 2018,
+    "spokenLanguages": [
+      {
+        "language": "English",
+        "id": "en"
+      }
+    ],
+    "filmingLocations": [],
+    "runtime": "",
+    "runtimeSeconds": 0,
+    "actors": [
+      "Mark Ricci",
+      "Cheryl De Luca",
+      "Carter Purtelle"
+    ],
+    "directors": [
+      "Cameron Dodd",
+      "Mark Ricci"
+    ],
+    "top_credits": [
+      {
+        "name": "Directors",
+        "value": [
+          "Cameron Dodd",
+          "Mark Ricci"
+        ]
+      },
+      {
+        "name": "Writers",
+        "value": [
+          "Ricar Giachini",
+          "Mark Ricci"
+        ]
+      },
+      {
+        "name": "Stars",
+        "value": [
+          "Mark Ricci",
+          "Cheryl De Luca",
+          "Carter Purtelle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt0439572",
+    "review_api_path": "/reviews/tt0439572",
+    "imdb": "https://www.imdb.com/title/tt0439572",
+    "contentType": "Movie",
+    "productionStatus": "Released",
+    "title": "The Flash",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BNDk5OTg1NmEtMGMxOS00MWU3LWIzZTUtZGZiNTI0Y2JlNjZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYjM0MmE1MDYtMzk2Yi00YjQ4LTkxZGQtZGJiZjFhZDRjM2NlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNzAyZjZjYzctMTE0NS00Mzk2LWI3M2EtZTdjZTMyMmQ4ZDU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODg1ZTJmZTUtZmExMC00NTY4LWJmYTEtYWM4MDZiZDk3MWQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2QzMDVkOWItZDRlMS00ZWY4LWI4ZGMtMTExYzE1MzlhYmU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOWMyNGNmY2MtY2RjOS00NTQ1LWFjYzctYTllNDlkNDA2YjM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGQxOTYxY2EtMzBiZS00MzhlLWI1NjAtNWJjNDVlZTM4OGVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWQ3NDM3NDMtYmQ3MS00MWE5LWJkODgtYWFmMGVmODNiZTdlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjkwMjJkNzktYzJiYy00MjAzLTg4NmQtNGUwYTUzNGVhNDA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODYyNjNkMTQtODJjMi00NTFkLWI4ZWItMjc5ZWI2YjI5YWNhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNWJjNmM4NmMtZDk5MC00YTIyLWIxYzctOWUxNWY4MjEzNTI4XkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYmQ0MDQ4ZTEtYWM2MS00ZDg3LWFhMTMtZGQ4MDQxMzAwNDcxXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2MxODY1ZTAtZDc2OS00YjhkLWFlYTgtMjY3ZWYxYzk0OWFiXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg"
+    ],
+    "plot": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+    "rating": {
+      "count": 185563,
+      "star": 6.7
+    },
+    "award": {
+      "wins": 0,
+      "nominations": 0
+    },
+    "contentRating": "PG-13",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "releaseDetailed": {
+      "day": 16,
+      "month": 6,
+      "year": 2023,
+      "releaseLocation": {
+        "country": "United States",
+        "cca2": "US"
+      },
+      "originLocations": [
+        {
+          "country": "United States",
+          "cca2": "US"
+        },
+        {
+          "country": "Canada",
+          "cca2": "CA"
+        },
+        {
+          "country": "Australia",
+          "cca2": "AU"
+        },
+        {
+          "country": "New Zealand",
+          "cca2": "NZ"
+        }
+      ]
+    },
+    "year": 2023,
+    "spokenLanguages": [
+      {
+        "language": "English",
+        "id": "en"
+      }
+    ],
+    "filmingLocations": [
+      "130 St Vincent Street, Glasgow, Scotland, UK"
+    ],
+    "runtime": "2h 24m",
+    "runtimeSeconds": 8640,
+    "actors": [
+      "Ezra Miller",
+      "Michael Keaton",
+      "Sasha Calle"
+    ],
+    "directors": [
+      "Andy Muschietti"
+    ],
+    "top_credits": [
+      {
+        "name": "Director",
+        "value": [
+          "Andy Muschietti"
+        ]
+      },
+      {
+        "name": "Writers",
+        "value": [
+          "Christina Hodson",
+          "John Francis Daley",
+          "Jonathan Goldstein"
+        ]
+      },
+      {
+        "name": "Stars",
+        "value": [
+          "Ezra Miller",
+          "Michael Keaton",
+          "Sasha Calle"
+        ]
+      }
+    ]
+  }
+]
